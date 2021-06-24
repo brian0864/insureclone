@@ -1,0 +1,48 @@
+li{
+    display: inline;
+}
+.topnav a :hover{color: blueviolet;
+    
+
+}
+.h1{
+    font-family:  serif;
+    color: cornsilk;
+    font-size: 16px;
+}
+.flex-container{
+    display: flex;
+}
+
+.containersnappy{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    padding: 40px 40px;
+}
+.containeraffordableprices{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    padding: 40px 40px;
+}
+    .containerpeoplefirst{
+        background-color:white;
+        width: 200px;
+        height: 200px;
+        padding: 40px 40px;}
+
+        .flex-container2{
+            justify-content: space-around;
+            display: flex;
+            height: 350;
+            width: auto;}
+.flex-container3{align-self: center;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+justify-self: center;
+}
+        
+        
+
